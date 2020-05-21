@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="942f4055-d8c8-4a47-85a1-39a11a266f63" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/results.html" afterPath="$PROJECT_DIR$/templates/results.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/winerecommender/winerecommender/static/winerecommender/chosen.js" afterPath="$PROJECT_DIR$/winerecommender/winerecommender/static/winerecommender/chosen.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,21 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="results.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="results.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/results.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="16" column="79" lean-forward="false" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+            <state relative-caret-position="319">
+              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chosen.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="chosen.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/winerecommender/winerecommender/static/winerecommender/chosen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="1386" column="14" lean-forward="false" selection-start-line="1386" selection-start-column="14" selection-end-line="1386" selection-end-column="14" />
+            <state relative-caret-position="184">
+              <caret line="589" column="54" lean-forward="false" selection-start-line="589" selection-start-column="54" selection-end-line="589" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -138,6 +139,8 @@
       <find>ost</find>
       <find>static</find>
       <find>chosen</find>
+      <find>AbstractC</find>
+      <find>browser</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,8 +159,8 @@
         <option value="$PROJECT_DIR$/winerecommender/winerecommender/views.py" />
         <option value="$PROJECT_DIR$/winerecommender/winerecommender/settings.py" />
         <option value="$PROJECT_DIR$/winerecommender/winerecommender/recommender.py" />
-        <option value="$PROJECT_DIR$/winerecommender/winerecommender/static/winerecommender/chosen.js" />
         <option value="$PROJECT_DIR$/templates/results.html" />
+        <option value="$PROJECT_DIR$/winerecommender/winerecommender/static/winerecommender/chosen.js" />
       </list>
     </option>
   </component>
@@ -771,18 +774,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/winerecommender/winerecommender/static/winerecommender/chosen.js">
+    <entry file="file://$PROJECT_DIR$/templates/results.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="1386" column="14" lean-forward="false" selection-start-line="1386" selection-start-column="14" selection-end-line="1386" selection-end-column="14" />
+        <state relative-caret-position="319">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/results.html">
+    <entry file="file://$PROJECT_DIR$/winerecommender/winerecommender/static/winerecommender/chosen.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="16" column="79" lean-forward="false" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+        <state relative-caret-position="184">
+          <caret line="589" column="54" lean-forward="false" selection-start-line="589" selection-start-column="54" selection-end-line="589" selection-end-column="54" />
           <folding />
         </state>
       </provider>
