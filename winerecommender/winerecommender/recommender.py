@@ -24,7 +24,7 @@ def rank(positives, negatives):
     ref /= np.linalg.norm(ref)
 
     scores = (centers @ ref.T).ravel()
-    if not negatives:
+    if negatives:
         scores = (scores + 1) / 2
     ranks = np.argsort(scores)[::-1]
 
